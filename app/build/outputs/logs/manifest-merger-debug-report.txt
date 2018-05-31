@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:21:5-32
+	xmlns:android
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:20:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:23:22-63
+application
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:26:5-49:19
+	android:label
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:28:9-42
+	android:hardwareAccelerated
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:27:9-43
+	android:icon
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:29:9-38
+activity#com.android.systemui.egg.LLandActivity
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:37:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:43:19-53
+	android:label
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:40:19-48
+	android:launchMode
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:42:19-54
+	android:hardwareAccelerated
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:41:19-53
+	android:exported
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:39:19-42
+	android:theme
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:38:19-82
+	android:name
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:37:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mbern\Documents\AndroidProjects\LollipopLand-master\LLand1\app\src\main\AndroidManifest.xml
